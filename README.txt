@@ -1,0 +1,1 @@
+Fursona Maker is in developpement, so if you found bugs, inform me on github
